@@ -7,7 +7,7 @@
 
 
 # About Me :
-A security learner,exploring different aspects of Cybersecurity and Ethical hacking, getting insights into core concepts of them.<br>Moreover, aquiring penetration and mitigation techniques, equiping with all the essential tools, in order to build a sound and quite unique security methodology.
+A security learner,exploring different aspects of Cybersecurity and Ethical hacking, getting insights into core concepts of them.<br>Moreover, aquiring penetration and mitigation techniques, equiping with all the essential tools, in order to build a sound and quite unique security methodologies.
 
 
 ## 🌐 Socials:

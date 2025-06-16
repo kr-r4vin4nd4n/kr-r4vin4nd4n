@@ -9,6 +9,15 @@
 # About Me :
 A security learner,exploring different aspects of Cybersecurity and Ethical hacking, getting insights into core concepts of them.<br>Moreover, aquiring penetration and mitigation techniques, equiping with all the essential tools, in order to build a sound and quite unique security methodologies.
 
+## 🎓 Certifications & Achievements
+
+| **Certificate**                                                      | **Organization**           | **Link**                                                                                   |
+|----------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
+| Junior Penetration Tester                        | TryHackMe                        | [View Certificate]() |
+| Ethical Hacker                                    | CISCO                | [View Certificate](https://drive.google.com/file/d/1X-YXOgBh7ZLwZm_ghd1dNZiP-xT48COh/view?usp=sharing) |
+| Networking Basics                                              | CISCO                | [View Certificate](https://drive.google.com/file/d/1Bmig-g6T3eVdKAPN86mHyOo4F8xOvEDM/view?usp=sharing) |
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravinandan-kr-014969361/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kr_r4vin4nd4n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kr_r4vin4nd4an?t=ORNpTMlDHrAtaDqbUCwEYQ&s=09) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarravinandan011@gmail.com) 

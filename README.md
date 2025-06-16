@@ -16,7 +16,7 @@ A security learner,exploring different aspects of Cybersecurity and Ethical hack
 
 | **Certificate**                                                      | **Organization**           | **Link**                                                                                   |
 |----------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------|
-| Junior Penetration Tester                        | TryHackMe                        | [View Certificate]() |
+| Junior Penetration Tester                        | TryHackMe                        | [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NKBIO1TIWG.png) |
 | Ethical Hacker                                    | CISCO                | [View Certificate](https://drive.google.com/file/d/1X-YXOgBh7ZLwZm_ghd1dNZiP-xT48COh/view?usp=sharing) |
 | Networking Basics                                              | CISCO                | [View Certificate](https://drive.google.com/file/d/1Bmig-g6T3eVdKAPN86mHyOo4F8xOvEDM/view?usp=sharing) |
 
